@@ -1,0 +1,495 @@
+Title: Live Content
+Description: Fetched live
+Source: https://papelaria-arte.com/topo_bolo/
+---
+Topo Bolo Personalizados
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1814130245836675');
+fbq('track', 'PageView');
+(function(c,l,a,r,i,t,y){
+c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+})(window, document, "clarity", "script", "utuuftfr1r");
+html {
+scroll-behavior: smooth;
+}
+Compra 100% segura e protegida
+KIT TOPOS DE BOLO COMPLETO PARA
+PAPELARIA CRIATIVA
+COMECE HOJE
+Aproveite o mercado em alta com um pacote 100% pronto para usar
+Pacote completo com v&aacute;rios temas
+S&oacute; imprimir e montar
+Convites personalizados e edit&aacute;veis
+Acesso imediato e vital&iacute;cio
+Suporte Humanizado
+QUERO VER AS OFERTAS
+4 Benef&iacute;cios Principais
+Topos edit&aacute;veis no Canva
+Personalize como quiser com facilidade total
+Topos prontos para imprimir
+S&oacute; imprimir e montar sem complica&ccedil;&otilde;es
+Convites criativos
+E profissionais que impressionam
+Topos de Bolo Personalizado
+Pronto em minutos
+QUERO VER AS OFERTAS
+Por que escolher nosso material?
+Suas DORES acabaram:
+Sem tempo para criar do zero
+Dificuldade para aprender design
+N&atilde;o sabe por onde come&ccedil;ar
+Gasta horrores em decora&ccedil;&atilde;o de bolos e designs
+Seus DESEJOS realizados:
+Arquivos prontos e profissionais
+Iniciar na papelaria criativa
+Topos personalizados em minutos
+Aproveitar o melhor ramo do mercado de festas
+&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;
+QUERO VER AS OFERTAS
+O que voc&ecirc; vai receber
+Tenha acesso imediato a arquivos
+profissionais
+prontos para usar
+QUERO VER AS OFERTAS
+O que nossos clientes dizem
+&#11088;&#11088;&#11088;&#11088;&#11088;
+4.9/5 - 537 avalia&ccedil;&otilde;es
+Escolha Sua Oferta Especial
+Material de qualidade profissional para voc&ecirc; come&ccedil;ar hoje
+2 Pacotes diferentes
+para voc&ecirc; escolher
+MAIS VENDIDO
+Pacote Premium
+R$ 188,00
+-91%
+R$ 17,00
+Voc&ecirc; economiza R$ 171,00
++ ACESSO VITAL&Iacute;CIO
+TUDO DO PACOTE B&Aacute;SICO+
+B&ocirc;nus 1: + 100 Modelos Topper para Editar
+R$ 50,00
+B&ocirc;nus 2: Convites Personalizados Edit&aacute;veis
+R$ 45,00
+B&ocirc;nus 3: Melhores Fontes para cada tema
+R$ 19,00
+B&ocirc;nus 4: Topos de Bolo Premium PDF e PNG
+R$ 27,00
+B&ocirc;nus 5: Suporte Humanizado
+R$ 97,00
+QUERO O PACOTE PREMIUM
++ 850 pessoas j&aacute; escolheram esse pacote
+Pacote B&aacute;sico
+R$ 47,00
+-78%
+R$ 10,00
+Voc&ecirc; economiza R$ 37,00
+Topos de Bolo - Pronto para imprimir
+Topos de Bolo Infantil
+Topos de Bolo Times de Futebol
+Acesso Vital&iacute;cio
+Garantia de 7 dias
+N&atilde;o tem direito aos b&ocirc;nus
+N&atilde;o edita os moldes
+N&atilde;o tem acesso vit&aacute;licio
+Escolher o B&aacute;sico
+26 pessoas escolheram esse pacote
+Garantia 7 Dias
+Se por qualquer motivo voc&ecirc; n&atilde;o ficar satisfeito, devolvemos 100% do seu investimento.
+Sem perguntas, sem complica&ccedil;&otilde;es
+QUERO VER AS OFERTAS
+Perguntas Frequentes
+O que &eacute; o Pacote Topos de Bolo Personalizado - Papelaria Criativa?
+&Eacute; um pacote completo com artes personalizadas e prontas de Topos de Bolo, convites personalizados, modelos edit&aacute;veis de topos, fontes usadas e muito mais para personalizar festas infantis e tem&aacute;ticas. Ideal para quem quer trabalhar com papelaria criativa, mesmo come&ccedil;ando do zero. Com ele, voc&ecirc; tem modelos prontos para imprimir ou editar no Canva.
+O que est&aacute; incluso no pacote?
+Voc&ecirc; recebe centenas de modelos prontos para imprimir, al&eacute;m de arquivos edit&aacute;veis no Canva. E o melhor: voc&ecirc; ter&aacute; acesso vital&iacute;cio e atualiza&ccedil;&otilde;es sempre que houver novidades.
+Recebo tudo de uma vez?
+Sim! Assim que o pagamento &eacute; confirmado, voc&ecirc; recebe acesso imediato a todo o material. Pronto para baixar e usar sempre que quiser.
+Posso editar os modelos?
+Isso &eacute; opcional. Voc&ecirc; pode imprimir e usar exatamente como est&atilde;o. Mas se quiser personalizar, pode editar facilmente no Canva, at&eacute; mesmo pelo celular.
+Como fa&ccedil;o para acessar o material?
+Ap&oacute;s a compra, voc&ecirc; receber&aacute; um e-mail com o link de acesso exclusivo &agrave; plataforma de download. &Eacute; simples e imediato: pagou, recebeu, usou!
+Posso vender os materiais que eu montar com kit?
+Sim! Esse &eacute; o principal objetivo do pacote: te ajudar a criar sua pr&oacute;pria papelaria criativa e vender kits personalizados. Voc&ecirc; pode usar e oferecer para seus clientes na sua cidade.
+Tenho garantia?
+Sim! Voc&ecirc; tem 7 dias de garantia incondicional. Se por qualquer motivo n&atilde;o ficar satisfeita, &eacute; s&oacute; solicitar o reembolso dentro desse prazo e devolveremos 100% do valor.
+Como entro em contato com o suporte?
+Nossa equipe est&aacute; sempre dispon&iacute;vel para te ajudar! Basta enviar um e-mail ou mensagem pelos canais de suporte que informaremos ap&oacute;s a compra.
+N&atilde;o perca esta oportunidade!
+Milhares de pessoas j&aacute; est&atilde;o lucrando com papelaria personalizada.
+Seja a pr&oacute;xima a transformar sua paix&atilde;o em renda!
+GARANTIR MEU KIT AGORA
+Esta p&aacute;gina n&atilde;o &eacute; afiliada ao Facebook ou a qualquer entidade do Facebook. Este site n&atilde;o faz parte do site do Facebook nem da Meta Platforms, Inc. Al&eacute;m disso, este produto n&atilde;o recebe qualquer endosso do Facebook de forma alguma.
+Kit Festa - Papelaria Personalizada - Copyright &copy; Todos os direitos reservados
+html {
+height: 100%;
+}
+body {
+min-height: 100%;
+}
+window.addEventListener('DOMContentLoaded', () => {
+document.querySelectorAll('img').forEach(img => {
+const src = img.getAttribute('src') || '';
+// Ignora SVGs embutidos
+if (src.startsWith('data:image/svg+xml')) return;
+if(img.classList.contains('keen-slider__slide')) return
+// const imageSlider = img.classList.contains('keen-slider__slide')
+console.log('clientWidth: ', img.clientWidth)
+console.log('clientHeight: ', img.clientWidth)
+const parent = img.parentElement;
+if (parent) {
+const width =  parent.clientWidth ;
+const height = parent.clientHeight;
+if (width && height) {
+// Adiciona "lazy" apenas se a imagem N&Atilde;O tiver a classe "lcp-img"
+if (!img.classList.contains('lcp-img')) {
+img.setAttribute('loading', 'lazy');
+}
+img.setAttribute('width', width);
+img.setAttribute('height', height);
+const absoluteSrc = new URL(src, window.location.origin);
+absoluteSrc.searchParams.set('width', width);
+absoluteSrc.searchParams.set('height', height);
+img.src = absoluteSrc.toString();
+}
+}
+});
+});
+window.addEventListener('load', () => {
+const images = document.querySelectorAll('.keen-slider__slide');
+images.forEach(img => {
+const slideSrc = img.getAttribute('src') || '';
+// Aguarda o carregamento de cada imagem (caso ainda n&atilde;o esteja carregada)
+if (img.complete) {
+setSize(img, slideSrc);
+} else {
+img.addEventListener('load', () => setSize(img, slideSrc));
+}
+});
+function setSize(img, slideSrc) {
+if(!img.classList.contains('lcp-img')) {
+img.setAttribute('loading', 'lazy');
+}
+img.setAttribute('width', img.clientWidth);
+img.setAttribute('height', img.clientHeight);
+const sliderAbsoluteSrc = new URL(slideSrc, window.location.origin);
+sliderAbsoluteSrc.searchParams.set('width', img.clientWidth);
+sliderAbsoluteSrc.searchParams.set('height', img.clientHeight);
+img.src = sliderAbsoluteSrc.toString();
+}
+});
+document.querySelectorAll('a.button-anchor-book-mark')
+.forEach(anchor => {
+anchor.addEventListener('click', (e) => {
+e.preventDefault();
+setTimeout(() => {
+const href = anchor.getAttribute('href');
+const el = document.querySelector(href);
+const targetPosition = el.getBoundingClientRect().top + window.scrollY
+if (el) window.scrollTo({  top: targetPosition ,behavior: 'smooth' });
+}, 800);
+});
+});
+document.addEventListener("DOMContentLoaded", function() {
+document.getElementsByTagName("body")[0].style.display = "unset";
+});
+function accordion(e) {
+const body = e.querySelector('.vcp__body');
+const icon = e.querySelector('.vcp__header-icon');
+if (body.style.display === "none") {
+icon.style.transform = "rotate(180deg)";
+body.style.display = "block";
+body.style.maxHeight = "0";
+body.style.opacity = "0";
+body.style.transition = "max-height 0.3s ease-in-out, opacity 0.3s ease-in-out";
+// Aguardar um pouco antes de expandir o elemento para que a transi&ccedil;&atilde;o de exibi&ccedil;&atilde;o ocorra
+setTimeout(function() {
+body.style.maxHeight = body.scrollHeight + "px";
+body.style.opacity = "1";
+}, 10);
+setTimeout(function() {
+e.classList.add('vcp--expanded');
+}, 100);
+} else {
+icon.style.transform = "rotate(360deg)";
+body.style.maxHeight = "0";
+body.style.opacity = "0";
+e.classList.remove('vcp--expanded')
+body.style.transition = "max-height 0.3s ease-in-out, opacity 0.3s ease-in-out";
+// Aguardar a dura&ccedil;&atilde;o da transi&ccedil;&atilde;o antes de esconder o elemento
+setTimeout(function() {
+body.style.display = "none";
+}, 300);
+// Espera 300ms antes de esconder o elemento
+}
+}
+document.querySelectorAll('a[href^="#"]').forEach(link => {
+link.addEventListener('click',  (event)=>{
+event.preventDefault();
+document.querySelector(link.getAttribute('href')).scrollIntoView({
+behavior: 'smooth'
+});
+});
+});
+let animations = ["is-fade", "slide-right", "slide-left", "slide-top", "slide-bottom", "is-bounce", "is-zoom", "is-flip", "is-fol", "is-roll", "is-elastic", "to-float-1", "to-float-2", "to-float3"];
+animations.forEach(animation => {
+const observer = new IntersectionObserver(entries => { // Cria o observador
+entries.forEach(entry => { // Para cada elemento observado
+if (entry.isIntersecting) { // Se o elemento estiver vis&iacute;vel na tela
+entry.target.classList.add(animation); // Adiciona a classe de anima&ccedil;&atilde;o
+observer.unobserve(entry.target); // Para de observar o elemento
+} else {
+entry.target.classList.remove(animation); // Remove a classe de anima&ccedil;&atilde;o
+}
+});
+}, { threshold: [0, 0.5, 1] }); // Define o threshold - (ponto de observa&ccedil;&atilde;o, para que o elemento seja animado)
+const elements = Array.from(document.querySelectorAll(`.${animation}`)); // Seleciona todos os elementos com a classe de anima&ccedil;&atilde;o
+elements.forEach(element => {
+observer.observe(element); // Observa cada elemento
+});
+});
+let carouselRef = document.querySelectorAll('[data-carousel]');
+if (!!carouselRef.length) { // check if carousel exists
+// select all elements with carousel data attributes
+let slidersPerView = document.querySelectorAll('[data-carousel-sliders-per-view]');
+let mobileSlidersPerView = document.querySelectorAll('[data-carousel-mobile-sliders-per-view]');
+let automaticReproduction = document.querySelectorAll('[data-carousel-automatic-reproduction]');
+let automaticReproductionTime = document.querySelectorAll('[data-carousel-automatic-reproduction-time]');
+let loop = document.querySelectorAll('[data-carousel-loop]');
+let slidesToStep = document.querySelectorAll('[data-carousel-slides-to-step]');
+let speedAnimation = document.querySelectorAll('[data-carousel-speed-animation]');
+let spaceBetween = document.querySelectorAll('[data-carousel-space-between]');
+let mobileSpaceBetween = document.querySelectorAll('[data-carousel-mobile-space-between]');
+let isHaveDots = document.querySelectorAll('[data-carousel-is-have-dots]');
+let auxDots = document.querySelectorAll('[data-carousel-aux-dots]');
+let auxDotsMobile = document.querySelectorAll('[data-carousel-aux-dots-mobile]');
+let quantitySlides = document.querySelectorAll('[data-carousel-quantity-slides]');
+// iterate over each carousel element and
+for (let i = 0; i
+t }
+let autoPlay = automaticReproduction[i].dataset.carouselAutomaticReproduction == 'true' ? true : false;
+// get the dots container
+let containerDot = carouselRef[i].getElementsByClassName('carousel-navigation-dots');
+// create dots
+function createDots() {
+// remove all dots from carousel
+containerDot[0].innerHTML = '';
+// create dots to window size > 768px
+if (window.innerWidth > 768) {
+for (let j = 0; j
+`;
+}
+} else {
+// create dots to window size
+`;
+}
+}
+let dots = carouselRef[i].getElementsByClassName('carousel-navigation-dot');
+if(dots) {
+for (let i = 0; i
+{
+carousel.moveToIdx(i, false, animationOnNavigation);
+})
+}
+}
+}
+// check if dots are enabled
+if (isHaveDots[i].dataset.carouselIsHaveDots == 'true') {
+createDots();
+}
+// get all dots
+let dots = carouselRef[i].getElementsByClassName('carousel-navigation-dot');
+// store the previous width
+let previousWidth = window.innerWidth;
+// Attach an event listener to the window's resize event
+window.addEventListener('resize', function() {
+const currentWidth = window.innerWidth;
+if(previousWidth > 768 && currentWidth
+768) {
+createDots();
+}
+previousWidth = currentWidth;
+});
+// add active class when slide changes
+function controlNavigationDot(currentDot) {
+if (!dots) return;
+// remove active class from all dots
+for (let i = 0; i
+{
+observer.observe(slider.container);
+});
+slider.on("destroyed", () => {
+observer.unobserve(slider.container);
+});
+};
+let currentSlide = 0;
+// initialize carousel
+let carousel = new KeenSlider(carouselId,
+{
+initial: currentSlide,
+renderMode: "precision",
+drag: loop[i].dataset.carouselDrag == 'false' ? false : true,
+slideChanged: (slide) => {
+if(slide?.track?.details?.rel >= slide.slides.length/2){
+currentSlide = slide?.track?.details?.rel - slide.slides.length/2;
+}
+else{
+currentSlide = slide?.track?.details?.rel;
+}
+controlNavigationDot(currentSlide);
+},
+created(slider) {
+if (autoPlay) {
+slider.moveToIdx(slider.slides.length, true, animation);
+controlNavigationDot(0);
+}
+},
+updated(slider) {
+if (autoPlay) {
+slider.moveToIdx(slider.track.details?.abs + slider.slides.length, true, animation);
+}
+},
+animationEnded(slider) {
+if (autoPlay) {
+slider.moveToIdx(slider.track.details?.abs + slider.slides.length, true, animation)
+}
+},
+loop: loop[i].dataset.carouselLoop == 'true' ? true : false,
+breakpoints: {
+"(min-width: 768px)": {
+slides: {
+perView: Number(slidersPerView[i].dataset.carouselSlidersPerView) || 'auto',
+spacing: Number(spaceBetween[i].dataset.carouselSpaceBetween),
+}
+}
+},
+slides: {
+perView: Number(mobileSlidersPerView[i].dataset.carouselMobileSlidersPerView) || 'auto',
+spacing: Number(mobileSpaceBetween[i].dataset.carouselMobileSpaceBetween),
+},
+},
+[ResizePlugin]
+)
+//get arrow buttons from carousel element
+let prevButton = carouselRef[i].getElementsByClassName('carousel-navigation-arrow-left')[0];
+let nextButton = carouselRef[i].getElementsByClassName('carousel-navigation-arrow-right')[0];
+// get data attributes from navigation elements
+let valueSlidesToStep = (Number(slidesToStep[i].dataset.carouselSlidesToStep) + 1) || 1;
+let valueSpeedAnimation = Number(speedAnimation[i].dataset.carouselSpeedAnimation) || 600;
+let animationOnNavigation = { duration: Number(valueSpeedAnimation), easing: (t) => t }
+if (prevButton && nextButton) {
+// add event listeners to svg elements
+prevButton.addEventListener('click', () => carousel.moveToIdx(currentSlide - valueSlidesToStep, false, animationOnNavigation));
+nextButton.addEventListener('click', () => carousel.moveToIdx(currentSlide + valueSlidesToStep, false, animationOnNavigation));
+}
+if(loop[i].dataset?.carouselStopOnOver == 'true'){
+carouselRef[i].addEventListener('mouseover', () => {
+// stop animation of the slider
+carousel.animator.start([
+{
+distance: 0, // No movement
+duration: 10000000, // Long duration for simulate stop
+easing: (t) => t
+}
+]);
+});
+carouselRef[i].addEventListener('mouseout', () => {
+// restart animation of the slider
+carousel.animator.start([
+{
+distance: carousel?.track?.details?.length + carousel?.track?.details?.progress, // Movement to next slide
+duration: animation.duration, // Turn back to normal duration
+easing: animation.easing
+}
+]);
+});
+}
+// start automatic reproduction
+carousel.update();
+}
+}
+document.addEventListener('contextmenu', function(e) {
+e.preventDefault();
+});
+const lenis = new Lenis({
+duration: 1.2,
+easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)),
+orientation: 'vertical',
+gestureOrientation: 'vertical',
+smoothWheel: true,
+wheelMultiplier: 1,
+smoothTouch: false,
+touchMultiplier: 2,
+infinite: false,
+})
+function raf(time) {
+lenis.raf(time)
+requestAnimationFrame(raf)
+}
+requestAnimationFrame(raf)
+document.addEventListener('DOMContentLoaded', function () {
+let tags = document.querySelectorAll('a')
+tags.forEach(tagA => {
+var urlLink = tagA.getAttribute('href')
+var urlParameters = window.location.search
+if (
+urlLink != 'javascript:;' &&
+urlLink != '' &&
+urlLink.charAt(0) !== '#'
+) {
+if (urlParameters.charAt(0) === '?') {
+// Remover o ponto de interroga&ccedil;&atilde;o da string
+urlParameters = urlParameters.substring(1)
+}
+var redirectUrl = urlLink
+redirectUrl += redirectUrl.includes('?')
+? '&' + urlParameters
+: urlParameters != ''
+? '?' + urlParameters
+: ''
+tagA.setAttribute('href', redirectUrl)
+}
+})
+})
+let prefix = ["https://payment.hotmart.com", "https://pay.hotmart.com", "https://go.hotmart.com"];
+function getParams() {
+let t = "",
+e = window.top.location.href,
+r = new URL(e);
+if (null != r) {
+let a = r.searchParams.get("utm_source"),
+n = r.searchParams.get("utm_medium"),
+o = r.searchParams.get("utm_campaign"),
+m = r.searchParams.get("utm_term"),
+c = r.searchParams.get("utm_content"); - 1 !== e.indexOf("?") && (t = `&sck=${a}|${n}|${o}|${m}|${c}`), console.log(t)
+}
+return t
+}! function() {
+var t = new URLSearchParams(window.location.search);
+t.toString() && document.querySelectorAll("a").forEach(function(e) {
+for (let r = 0; r
+let prefix = ["https://education-to-evolve.mycartpanda.com/checkout", "https://education-to-evolve.mycartpanda.com"];
+function getParams() {
+let t = "",
+e = window.top.location.href,
+r = new URL(e);
+if (null != r) {
+let a = r.searchParams.get("utm_source"),
+n = r.searchParams.get("utm_medium"),
+o = r.searchParams.get("utm_campaign"),
+m = r.searchParams.get("utm_term"),
+c = r.searchParams.get("utm_content"); - 1 !== e.indexOf("?") && (t = `&sck=${a}|${n}|${o}|${m}|${c}`), console.log(t)
+}
+return t
+}! function() {
+var t = new URLSearchParams(window.location.search);
+t.toString() && document.querySelectorAll("a").forEach(function(e) {
+for (let r = 0; r
