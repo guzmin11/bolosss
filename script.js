@@ -1,6 +1,7 @@
 const CHECKOUT_URLS = {
-    basic: "",
-    premium: ""
+    basic: "https://ggcheckout.app/checkout/v2/6yzQgH2kEybBJ4ij3uNr",
+    premium: "https://ggcheckout.app/checkout/v2/LBDSAZWt75KoT7nJcNS1",
+    premiumPopup: "https://ggcheckout.app/checkout/v2/ydwLcsMO01QQtrx8ssBp"
 };
 
 const partyImages = [
