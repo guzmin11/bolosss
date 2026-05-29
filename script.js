@@ -136,31 +136,31 @@ function goToCheckout(plan) {
 
 function setupHeroVideoSound() {
     const button = document.querySelector("[data-sound-toggle]");
-    const iframe = document.getElementById("hero-video");
+    const video = document.getElementById("hero-video");
     const replayButton = document.querySelector("[data-replay-video]");
-    if (!button || !iframe) return;
+    if (!button || !video) return;
 
-    const player = window.Vimeo ? new Vimeo.Player(iframe) : null;
+    video.muted = true;
+    video.play().catch(() => {
+        button.textContent = "Toque para iniciar o video";
+    });
 
-    if (player && replayButton) {
-        player.on("ended", () => {
+    if (replayButton) {
+        video.addEventListener("ended", () => {
             replayButton.classList.add("show");
         });
 
         replayButton.addEventListener("click", () => {
             replayButton.classList.remove("show");
-            player.setCurrentTime(0).then(() => player.play());
+            video.currentTime = 0;
+            video.play();
         });
     }
 
     button.addEventListener("click", () => {
-        if (player) {
-            player.setMuted(false);
-            player.setVolume(1);
-            player.play();
-        } else {
-            iframe.src = "https://player.vimeo.com/video/1195807418?autoplay=1&muted=0&loop=0&title=0&byline=0&portrait=0&badge=0&autopause=0&controls=1&playsinline=1";
-        }
+        video.muted = false;
+        video.volume = 1;
+        video.play();
         button.textContent = "Som ativado";
         button.classList.add("sound-on");
         setTimeout(() => button.remove(), 1200);
