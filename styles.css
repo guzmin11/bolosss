@@ -516,7 +516,7 @@ h1 mark {
 .theme-tags span:nth-child(6) { background: #fff4e9; color: #f05a00; }
 .theme-tags span:nth-child(7) { background: #f8edff; color: #8a00ff; }
 .theme-tags span:nth-child(8) { background: #eaffff; color: #008ab8; }
-.theme-tags span:nth-child(9) { background: #fff0f2; color: #f0003c; }
+.theme-tags span:nth-child(9) { background: #e6f6ff; color: #0077c8; }
 .theme-tags span:nth-child(10) { background: #eafff7; color: var(--green-dark); }
 
 .more-themes {
