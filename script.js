@@ -105,8 +105,8 @@ function rotateToast() {
 
     setTimeout(() => {
         showNext();
-        setInterval(showNext, 10000);
-    }, 10000);
+        setInterval(showNext, 30000);
+    }, 30000);
 }
 
 function openUpsell() {

@@ -61,9 +61,9 @@ img, video, iframe { display: block; max-width: 100%; }
     bottom: 56px;
     z-index: 25;
     display: grid;
-    gap: 4px;
-    min-width: 260px;
-    padding: 18px 20px;
+    gap: 6px;
+    min-width: 292px;
+    padding: 21px 24px;
     background: #fff;
     border: 2px solid var(--green);
     border-radius: 12px;
@@ -78,17 +78,24 @@ img, video, iframe { display: block; max-width: 100%; }
     opacity: 1;
 }
 
-.purchase-toast strong { font-size: 15px; }
+.purchase-toast strong {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    font-size: 17px;
+}
+
+.toast-cart { font-size: 19px; }
 
 .purchase-toast span {
     color: var(--green-dark);
     font-weight: 800;
-    font-size: 13px;
+    font-size: 14px;
 }
 
 .purchase-toast small {
     color: var(--muted);
-    font-size: 11px;
+    font-size: 12px;
     text-transform: uppercase;
 }
 
@@ -1179,16 +1186,16 @@ footer {
         right: auto;
         bottom: 12px;
         min-width: 0;
-        width: min(210px, calc(100vw - 20px));
-        padding: 10px 12px;
-        gap: 2px;
+        width: min(252px, calc(100vw - 20px));
+        padding: 13px 15px;
+        gap: 4px;
         border-width: 1px;
         border-radius: 10px;
     }
 
-    .purchase-toast strong { font-size: 13px; }
-    .purchase-toast span { font-size: 11px; }
-    .purchase-toast small { font-size: 9px; }
+    .purchase-toast strong { font-size: 14px; }
+    .purchase-toast span { font-size: 12px; }
+    .purchase-toast small { font-size: 10px; }
 }
 
 @media (max-width: 560px) {
