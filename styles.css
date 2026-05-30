@@ -102,7 +102,7 @@ img, video, iframe { display: block; max-width: 100%; }
 .hero {
     position: relative;
     overflow: hidden;
-    padding: 78px 0 52px;
+    padding: 38px 0 48px;
     text-align: center;
 }
 
@@ -137,7 +137,7 @@ h1, h2, h3, p { margin-top: 0; }
 
 h1 {
     max-width: 920px;
-    margin: 24px auto 22px;
+    margin: 18px auto 22px;
     font-size: clamp(38px, 5.4vw, 66px);
     line-height: 1.16;
     font-weight: 900;
@@ -398,6 +398,8 @@ h1 mark {
 
 .section-lead { margin-bottom: 32px; }
 .gallery, .themes, .testimonials { overflow: hidden; }
+
+.gallery-title span { display: inline; }
 
 .marquee {
     width: 100%;
@@ -1163,8 +1165,8 @@ footer {
 
 @media (max-width: 860px) {
     .hero {
-        padding-top: 54px;
-        padding-bottom: 46px;
+        padding-top: 30px;
+        padding-bottom: 42px;
     }
 
     h1 {
@@ -1218,6 +1220,10 @@ footer {
     .section h2 {
         font-size: clamp(27px, 7.5vw, 34px);
         line-height: 1.15;
+    }
+
+    .gallery-title span {
+        display: block;
     }
 
     .cta {
